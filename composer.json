@@ -1,0 +1,19 @@
+{
+    "name": "omarashi/laravel-kuveytturk-pos",
+    "description": "Laravel Package For Kuveyt Turk Bank Virtual POS Integration",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "omarashi",
+            "email": "omer.alachi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Omarashi\\KuveytTurkPos\\": "src/"
+        }
+    },
+    "require": {}
+}
